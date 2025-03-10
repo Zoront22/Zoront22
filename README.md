@@ -3,13 +3,9 @@
 ###
 
 <div align="center">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoront22&show_icons=true&locale=en&layout=compact" alt="zoront22" />
-  </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoront22&show_icons=true&theme=dark&locale=en&layout=compact" alt="zoront22" /></p>
 
-  <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zoront22&show_icons=true&locale=en" alt="zoront22" />
-  </p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoront22&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="zoront22" /></p>
 </div>
 
 ###
